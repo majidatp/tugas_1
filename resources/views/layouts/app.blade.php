@@ -17,7 +17,7 @@
             <div class="flex-none">
                 <ul class="menu menu-horizontal px-1">
                     <li><a href="/">Home</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="{{ route('user') }}" >About</a></li>
                 </ul>
             </div>
         </div>
