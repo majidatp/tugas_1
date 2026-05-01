@@ -21,8 +21,11 @@
             
             <!-- Description -->
             <p class="py-4 text-base-content/70 text-lg">
-                This is your brand new Laravel application.<br>
-                Time to make it <span class="text-primary font-semibold">sing (or chirp)!</span>
+                This is your brand new Laravel application.
+            </p>
+              <p class="py-4 text-base-content/70 text-lg">
+                Now <br>
+                This is <span class="text-primary font-semibold">Live in Internet</span>
             </p>
             
             <!-- Buttons -->
